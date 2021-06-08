@@ -6,7 +6,7 @@ I'm love with React, Redux, JAMStack, nice CSS, and MongoDB.
 
 ## Where you can find me?
 
-### [Personal website](https://robertorlinski.pl) &nbsp;&nbsp; [Blog](https://blog.robertorlinski.pl/) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UC_qgM2UztycBZGQLNaGs9Jg) &nbsp;&nbsp; [Instagram](https://www.instagram.com/robert.orlinski/) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/robert-orlinski/)
+[Personal website](https://robertorlinski.pl) &nbsp;&nbsp; [Blog](https://blog.robertorlinski.pl/) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UC_qgM2UztycBZGQLNaGs9Jg) &nbsp;&nbsp; [Instagram](https://www.instagram.com/robert.orlinski/) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/robert-orlinski/)
 
 ## Some goods from my blog (in Polish):
 
