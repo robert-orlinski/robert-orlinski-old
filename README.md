@@ -10,7 +10,7 @@ That's why I am currently in love with React, Redux, JAMStack, TypeScript, and M
 
 ## Several projects I've been working on:
 
-Based on React (non-commercial):
+Based on React (open source):
 
 - [GoFIRE](https://github.com/robert-orlinski/go-fire)
 - [GoMoreCreative](https://github.com/robert-orlinski/go-more-creative)
