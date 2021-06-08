@@ -2,13 +2,26 @@
 
 I am WordPress and Front-End Developer, PM, and team manager with several years of experience, who changes profession to React to gain some new experience.
 
-That's why I am currently in love with React, Redux, JAMStack, nice CSS, and MongoDB! Learning these technologies and exploring everything that's associated with them.
+That's why I am currently in love with React, Redux, JAMStack, TypeScript, and MongoDB! Learning these technologies and exploring everything that's associated with them.
 
 ## Where you can find me?
 
 [Personal website](https://robertorlinski.pl) &nbsp;&nbsp; [Blog](https://blog.robertorlinski.pl/) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UC_qgM2UztycBZGQLNaGs9Jg) &nbsp;&nbsp; [Instagram](https://www.instagram.com/robert.orlinski/) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/robert-orlinski/)
 
-## Some goods from my blog (in Polish):
+## Several projects I've been working on:
+
+Based on React (non-commercial):
+
+- [GoFIRE](https://github.com/robert-orlinski/go-fire)
+- [GoMoreCreative](https://github.com/robert-orlinski/go-more-creative)
+
+Based on WordPress (commercial):
+
+- [Marketer+](https://marketerplus.pl/)
+- [HCM Deck](https://hcmdeck.com/)
+- [Looksus Lashes](https://looksuslashes.pl/)
+
+## Additionally, some goods from my blog (in Polish):
 
 - [Własne bloki w WordPress Gutenberg (cała seria)](https://blog.robertorlinski.pl/wlasne-bloki-w-wordpress-gutenberg/)
 - [Jak stworzyć animowane hamburger menu](https://blog.robertorlinski.pl/hamburger-menu/)
