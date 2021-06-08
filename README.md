@@ -1,4 +1,4 @@
-# Hi there ✨ I am Robert and I have to say that - it's awesome to see you!
+![](/banner.jpg?raw=true 'Hi there ✨ I am Robert and I have to say that - it's awesome to see you!')
 
 I am WordPress and Front-End Developer, PM, and team manager with several years of experience, who changes profession to React to gain some new experience.
 
