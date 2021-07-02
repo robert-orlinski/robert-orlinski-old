@@ -2,7 +2,7 @@
 
 I am WordPress and Front-End Developer, PM, and team manager with several years of experience, who changes profession to React to gain some new experience.
 
-That's why I am currently in love with React, Redux, JAMStack, TypeScript, and MongoDB! Learning these technologies and exploring everything that's associated with them.
+That's why I am currently in love with React, Redux, Next.js, Gatsby, JAMStack, and TypeScript! Learning these technologies and exploring everything that's associated with them.
 
 ## Where you can find me?
 
