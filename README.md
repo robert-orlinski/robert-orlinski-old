@@ -2,7 +2,7 @@
 
 I am a Front-End and WordPress developer, PM, and team manager with several years of commercial experience.
 
-Currently in love with React, Redux, Next.js, Gatsby, JAMStack, and TypeScript 😌
+Currently in love with React, Redux, Next.js, Gatsby, Jamstack, and TypeScript 😌
 
 ## Where you can find me?
 
