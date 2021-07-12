@@ -1,8 +1,8 @@
 ![Hi there ✨ I am Robert and I have to say that - it's awesome to see you!](/banner.jpg?raw=true)
 
-I am WordPress and Front-End Developer, PM, and team manager with several years of experience, who changes profession to React to gain some new experience.
+I am a Front-End and WordPress developer, PM, and team manager with several years of commercial experience.
 
-That's why I am currently in love with React, Redux, Next.js, Gatsby, JAMStack, and TypeScript! Learning these technologies and exploring everything that's associated with them.
+Currently in love with React, Redux, Next.js, Gatsby, JAMStack, and TypeScript 😌
 
 ## Where you can find me?
 
