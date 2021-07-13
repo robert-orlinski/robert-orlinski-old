@@ -12,8 +12,8 @@ Currently in love with React, Redux, Next.js, Gatsby, Jamstack, and TypeScript ð
 
 Based on React (open source):
 
-- [GoFIRE](https://github.com/robert-orlinski/go-fire)
 - [GoMoreCreative](https://github.com/robert-orlinski/go-more-creative)
+- [GoFIRE](https://github.com/robert-orlinski/go-fire)
 
 Based on WordPress (commercial):
 
