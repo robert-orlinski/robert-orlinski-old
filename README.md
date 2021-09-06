@@ -6,7 +6,7 @@ Currently in love with React, Redux, Next.js, Gatsby, Jamstack, and TypeScript ð
 
 ## Where you can find me?
 
-[Personal website](https://robertorlinski.pl) &nbsp;&nbsp; [Blog](https://blog.robertorlinski.pl/) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UC_qgM2UztycBZGQLNaGs9Jg) &nbsp;&nbsp; [Instagram](https://www.instagram.com/robert.orlinski/) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/robert-orlinski/)
+[Blog](https://blog.robertorlinski.pl/) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UC_qgM2UztycBZGQLNaGs9Jg) &nbsp;&nbsp; [Instagram](https://www.instagram.com/robert.orlinski/) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/robert-orlinski/)
 
 ## Several projects I've been working on:
 
