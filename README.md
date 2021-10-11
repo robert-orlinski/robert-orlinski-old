@@ -28,8 +28,8 @@ Based on WordPress (commercial):
 
 ## Additionally, some goods from my blog (in Polish):
 
-- [Własne bloki w WordPress Gutenberg (cała seria)](https://blog.robertorlinski.pl/wlasne-bloki-w-wordpress-gutenberg/)
-- [Jak stworzyć animowane hamburger menu](https://blog.robertorlinski.pl/hamburger-menu/)
-- [13 dobrych praktyk w pisaniu kodu CSS](https://blog.robertorlinski.pl/dobre-praktyki-css/)
-- [Płynne przewijanie witryny do wskazanego punktu](https://blog.robertorlinski.pl/plynne-przewijanie-witryny/)
-- [12 sposobów na pozyskiwanie zleceń jako freelancer](https://blog.robertorlinski.pl/pozyskiwanie-zlecen-jako-freelancer/)
+- [Własne bloki w WordPress Gutenberg (cała seria)](https://robertorlinski.pl/wlasne-bloki-w-wordpress-gutenberg/)
+- [Jak stworzyć animowane hamburger menu](https://robertorlinski.pl/hamburger-menu/)
+- [13 dobrych praktyk w pisaniu kodu CSS](https://robertorlinski.pl/dobre-praktyki-css/)
+- [Płynne przewijanie witryny do wskazanego punktu](https://robertorlinski.pl/plynne-przewijanie-witryny/)
+- [12 sposobów na pozyskiwanie zleceń jako freelancer](https://robertorlinski.pl/pozyskiwanie-zlecen-jako-freelancer/)
