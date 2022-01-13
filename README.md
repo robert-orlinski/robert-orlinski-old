@@ -8,7 +8,7 @@ Currently in love with React, Redux, Next.js, and TypeScript 😌
 
 ## Where you can find me?
 
-[Blog](https://robertorlinski.pl/) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UC_qgM2UztycBZGQLNaGs9Jg) &nbsp;&nbsp; [Instagram](https://www.instagram.com/robert.orlinski/) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/robert-orlinski/)
+[Blog](https://robertorlinski.pl/) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UC_qgM2UztycBZGQLNaGs9Jg) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/robert-orlinski/) &nbsp;&nbsp; [Instagram](https://www.instagram.com/robert.orlinski/)
 
 ## Additionally, some goods from my blog (in Polish):
 
