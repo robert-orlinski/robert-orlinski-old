@@ -4,11 +4,11 @@ I am front-end developer, blogger, mentor with several years of commercial exper
 
 Now focused on making nice front-end code, mostly using React and its ecosystem while remaining open to any other technologies (and challanges of course).
 
-Currently in love with React, Redux, Next.js, and TypeScript 😌
+In love with React, Redux, Next.js, and TypeScript 😌
 
 ## Where you can find me?
 
-[Blog](https://robertorlinski.pl/) &nbsp;&nbsp; [YouTube](https://www.youtube.com/channel/UC_qgM2UztycBZGQLNaGs9Jg) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/robert-orlinski/) &nbsp;&nbsp; [Instagram](https://www.instagram.com/robert.orlinski/)
+[Blog](https://robertorlinski.pl/) &nbsp;&nbsp; [YouTube](https://robertorlinski.pl/youtube) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/robert-orlinski/) &nbsp;&nbsp; [Instagram](https://www.instagram.com/robert.orlinski/)
 
 ## Additionally, some goods from my blog (in Polish):
 
