@@ -1,6 +1,6 @@
 ![Hi there ✨ I am Robert and I have to say that - it's awesome to see you!](/banner.jpg?raw=true)
 
-I am front-end developer, blogger, mentor, and team leader with several years of commercial experience (earlier also WordPress developer). Been making code, building Brave New Agency's IT department for the last 1,5 years, sometimes managing.
+I am front-end developer, blogger, mentor with several years of commercial experience (earlier also WordPress developer). Been leading, building Brave New Agency's IT department for the last 1,5 years, sometimes managing.
 
 Now focused on making nice front-end code, mostly using React and its ecosystem while remaining open to any other technologies (and challanges of course).
 
